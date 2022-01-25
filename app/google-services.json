@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "850310573974",
+    "project_id": "jetpackcomposefirebase",
+    "storage_bucket": "jetpackcomposefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850310573974:android:87b894a6080bbb197fb7b7",
+        "android_client_info": {
+          "package_name": "com.cursodekotlin.jetpackfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850310573974-9rc89febrrticvsu3jdm6v8jjpehq2ed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cursodekotlin.jetpackfirebase",
+            "certificate_hash": "7ea25ed332bea6e3d8d6d75a966f213dce2e5af0"
+          }
+        },
+        {
+          "client_id": "850310573974-52mibf1qtshrifras03latog773rbs4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR0B9pRmUdRxe9jJ2K5T6HtL7EtOTHknc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850310573974-52mibf1qtshrifras03latog773rbs4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
